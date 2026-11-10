@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "generated_at": "2026-09-20T14:32:18Z",
+  "cycle": {
+    "duration_seconds": 8.4,
+    "discovery_events": 41,
+    "candidate_attempts": 126
+  },
+  "coverage": [
+    {
+      "sport": "CS2",
+      "duel_events": 17,
+      "bindings": 3,
+      "evaluator_runs": 6,
+      "status": "healthy"
+    },
+    {
+      "sport": "Dota 2",
+      "duel_events": 12,
+      "bindings": 2,
+      "evaluator_runs": 4,
+      "status": "healthy"
+    },
+    {
+      "sport": "Valorant",
+      "duel_events": 15,
+      "bindings": 2,
+      "evaluator_runs": 4,
+      "status": "healthy"
+    },
+    {
+      "sport": "League of Legends",
+      "duel_events": 19,
+      "bindings": 2,
+      "evaluator_runs": 4,
+      "status": "healthy"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "demo-lol-ig-jdg",
+      "sport": "League of Legends",
+      "team_a": "Invictus Gaming",
+      "team_b": "JD Gaming",
+      "tournament": "LPL 2026 Split 3",
+      "start_time": "2026-09-20T16:00:00Z",
+      "duel_side": "JD Gaming",
+      "duel_odds": 2.38,
+      "polymarket_side": "Invictus Gaming",
+      "polymarket_price": 0.405,
+      "edge_percent": 3.18,
+      "discovered_at": "2026-09-20T14:29:58Z",
+      "status": "active",
+      "best_ask_size": 12480,
+      "taker_fee": 0.01,
+      "freshness_seconds": 14,
+      "demo": true
+    },
+    {
+      "id": "demo-cs2-vitality-furia",
+      "sport": "CS2",
+      "team_a": "Team Vitality",
+      "team_b": "FURIA Esports",
+      "tournament": "BLAST Bounty Season 2",
+      "start_time": "2026-09-20T18:30:00Z",
+      "duel_side": "FURIA Esports",
+      "duel_odds": 2.12,
+      "polymarket_side": "Team Vitality",
+      "polymarket_price": 0.458,
+      "edge_percent": 1.42,
+      "discovered_at": "2026-09-20T14:26:31Z",
+      "status": "active",
+      "best_ask_size": 7810,
+      "taker_fee": 0.01,
+      "freshness_seconds": 12,
+      "demo": true
+    },
+    {
+      "id": "demo-valorant-paperrex-drx",
+      "sport": "Valorant",
+      "team_a": "Paper Rex",
+      "team_b": "DRX",
+      "tournament": "VCT Pacific Stage 2",
+      "start_time": "2026-09-20T15:00:00Z",
+      "duel_side": "DRX",
+      "duel_odds": 1.88,
+      "polymarket_side": "Paper Rex",
+      "polymarket_price": 0.548,
+      "edge_percent": -0.21,
+      "discovered_at": "2026-09-20T14:10:14Z",
+      "status": "expired",
+      "best_ask_size": 3240,
+      "taker_fee": 0.01,
+      "freshness_seconds": 47,
+      "demo": true
+    },
+    {
+      "id": "demo-dota-liquid-gg",
+      "sport": "Dota 2",
+      "team_a": "Gaimin Gladiators",
+      "team_b": "Team Liquid",
+      "tournament": "DreamLeague Season 28",
+      "start_time": "2026-09-20T13:30:00Z",
+      "duel_side": "Team Liquid",
+      "duel_odds": 2.46,
+      "polymarket_side": "Gaimin Gladiators",
+      "polymarket_price": 0.392,
+      "edge_percent": -0.73,
+      "discovered_at": "2026-09-20T13:55:03Z",
+      "status": "expired",
+      "best_ask_size": 2150,
+      "taker_fee": 0.01,
+      "freshness_seconds": 82,
+      "demo": true
+    }
+  ]
+}

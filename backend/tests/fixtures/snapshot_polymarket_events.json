@@ -1,0 +1,36 @@
+[
+  {
+    "provider": "polymarket",
+    "bookmaker": "polymarket",
+    "game": "counter-strike",
+    "tournament": "Counter-Strike: paiN Academy vs ALKA (BO3) - CCT South America Series 3 Group Stage",
+    "start_time": "2026-06-27T21:15:00Z",
+    "team_a": "ALKA",
+    "odds_a": 1.8348623853,
+    "team_b": "paiN Academy",
+    "odds_b": 2.1978021978,
+    "market_type": "h2h",
+    "event_url": "https://polymarket.com/event/cs2-paina-alkaa-2026-06-27",
+    "raw": {
+      "source": "gamma_query_slug",
+      "market_id": "pm-market-cs2-match"
+    }
+  },
+  {
+    "provider": "polymarket",
+    "bookmaker": "polymarket",
+    "game": "cs2",
+    "tournament": "BLAST Premier",
+    "start_time": "2026-07-02T19:00:00Z",
+    "team_a": "Natus Vincere",
+    "odds_a": 2.08,
+    "team_b": "Vitality",
+    "odds_b": 1.92,
+    "market_type": "h2h",
+    "event_url": "https://polymarket.com/event/natus-vincere-vs-vitality-cs2-blast",
+    "raw": {
+      "source": "gamma_query_slug",
+      "market_id": "pm-market-cs2-navi-vitality"
+    }
+  }
+]

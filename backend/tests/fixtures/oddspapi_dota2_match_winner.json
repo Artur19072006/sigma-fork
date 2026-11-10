@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": "oddspapi_evt_001",
+      "sport": {
+        "name": "Dota 2"
+      },
+      "tournament": {
+        "name": "DreamLeague Season 25"
+      },
+      "start_time": "2026-06-28T15:00:00Z",
+      "teams": [
+        {
+          "name": "Team Spirit"
+        },
+        {
+          "name": "Gaimin Gladiators"
+        }
+      ],
+      "event_url": "https://example.test/events/oddspapi_evt_001",
+      "bookmakers": [
+        {
+          "name": "stake",
+          "markets": [
+            {
+              "type": "matchWinner",
+              "outcomes": [
+                {
+                  "name": "Team Spirit",
+                  "odds": "1.74"
+                },
+                {
+                  "name": "Gaimin Gladiators",
+                  "odds": 2.08
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

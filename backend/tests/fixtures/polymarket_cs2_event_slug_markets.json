@@ -1,0 +1,106 @@
+[
+  {
+    "id": "pm-event-cs2-paina-alkaa",
+    "title": "Counter-Strike: paiN Academy vs ALKA (BO3) - CCT South America Series 3 Group Stage",
+    "slug": "cs2-paina-alkaa-2026-06-27",
+    "active": true,
+    "closed": false,
+    "startDate": "2026-06-27T21:00:00Z",
+    "category": "Counter-Strike",
+    "description": "Market group includes Map 1 Winner, Map 2 Winner, Map Handicap, Games Total and Total Rounds.",
+    "markets": [
+      {
+        "id": "pm-market-cs2-map1",
+        "conditionId": "pm-cond-cs2-map1",
+        "question": "Counter-Strike: paiN Academy vs ALKA (BO3) - Map 1 Winner",
+        "slug": "cs2-paina-alkaa-map-1-winner-2026-06-27",
+        "active": true,
+        "closed": false,
+        "outcomes": "[\"paiN Academy\", \"ALKA\"]",
+        "outcomePrices": "[\"0.49\", \"0.51\"]"
+      },
+      {
+        "id": "pm-market-cs2-map2",
+        "conditionId": "pm-cond-cs2-map2",
+        "question": "Counter-Strike: paiN Academy vs ALKA (BO3) - Map 2 Winner",
+        "slug": "cs2-paina-alkaa-map-2-winner-2026-06-27",
+        "active": true,
+        "closed": false,
+        "outcomes": "[\"paiN Academy\", \"ALKA\"]",
+        "outcomePrices": "[\"0.50\", \"0.50\"]"
+      },
+      {
+        "id": "pm-market-cs2-game1",
+        "conditionId": "pm-cond-cs2-game1",
+        "question": "Counter-Strike: paiN Academy vs ALKA (BO3) - Game 1 Winner",
+        "slug": "cs2-paina-alkaa-game-1-winner-2026-06-27",
+        "active": true,
+        "closed": false,
+        "outcomes": "[\"paiN Academy\", \"ALKA\"]",
+        "outcomePrices": "[\"0.49\", \"0.51\"]"
+      },
+      {
+        "id": "pm-market-cs2-game2",
+        "conditionId": "pm-cond-cs2-game2",
+        "question": "Counter-Strike: paiN Academy vs ALKA (BO3) - Game 2 Winner",
+        "slug": "cs2-paina-alkaa-game-2-winner-2026-06-27",
+        "active": true,
+        "closed": false,
+        "outcomes": "[\"paiN Academy\", \"ALKA\"]",
+        "outcomePrices": "[\"0.50\", \"0.50\"]"
+      },
+      {
+        "id": "pm-market-cs2-match",
+        "conditionId": "pm-cond-cs2-match",
+        "question": "Counter-Strike: paiN Academy vs ALKA (BO3) - CCT South America Series 3 Group Stage",
+        "slug": "cs2-paina-alkaa-2026-06-27",
+        "active": true,
+        "closed": false,
+        "outcomes": "[\"paiN Academy\", \"ALKA\"]",
+        "outcomePrices": "[\"0.455\", \"0.545\"]",
+        "volume": "9100.12",
+        "liquidity": "2400.34"
+      },
+      {
+        "id": "pm-market-cs2-total-games",
+        "conditionId": "pm-cond-cs2-total-games",
+        "question": "Counter-Strike: paiN Academy vs ALKA (BO3) - Games Total",
+        "slug": "cs2-paina-alkaa-games-total-2026-06-27",
+        "active": true,
+        "closed": false,
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.44\", \"0.56\"]"
+      },
+      {
+        "id": "pm-market-cs2-handicap",
+        "conditionId": "pm-cond-cs2-handicap",
+        "question": "Counter-Strike: paiN Academy vs ALKA (BO3) - Map Handicap",
+        "slug": "cs2-paina-alkaa-map-handicap-2026-06-27",
+        "active": true,
+        "closed": false,
+        "outcomes": "[\"paiN Academy -1.5\", \"ALKA +1.5\"]",
+        "outcomePrices": "[\"0.34\", \"0.66\"]"
+      },
+      {
+        "id": "pm-market-cs2-correct-score",
+        "conditionId": "pm-cond-cs2-correct-score",
+        "question": "Counter-Strike: paiN Academy vs ALKA (BO3) - Correct Score",
+        "slug": "cs2-paina-alkaa-correct-score-2026-06-27",
+        "active": true,
+        "closed": false,
+        "outcomes": "[\"paiN Academy 2-0\", \"ALKA 2-1\"]",
+        "outcomePrices": "[\"0.27\", \"0.73\"]"
+      },
+      {
+        "id": "pm-market-cs2-total-rounds",
+        "conditionId": "pm-cond-cs2-total-rounds",
+        "question": "Counter-Strike: paiN Academy vs ALKA (BO3) - Map Total Rounds",
+        "slug": "cs2-paina-alkaa-map-total-rounds-2026-06-27",
+        "active": true,
+        "closed": false,
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.47\", \"0.53\"]"
+      }
+    ]
+  }
+]

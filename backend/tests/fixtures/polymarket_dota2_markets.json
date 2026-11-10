@@ -1,0 +1,102 @@
+{
+  "events": [
+    {
+      "id": "pm-event-dota2-001",
+      "title": "Team Spirit vs Gaimin Gladiators",
+      "slug": "team-spirit-vs-gaimin-gladiators-dota2-dreamleague",
+      "active": true,
+      "closed": false,
+      "gameStartTime": "2026-06-29T16:30:00Z",
+      "series": {
+        "name": "DreamLeague Season 25"
+      },
+      "category": "Dota 2",
+      "tags": [
+        {
+          "label": "Dota 2"
+        },
+        {
+          "label": "Esports"
+        }
+      ],
+      "markets": [
+        {
+          "id": "pm-market-dota2-h2h-001",
+          "conditionId": "pm-cond-dota2-h2h-001",
+          "question": "Dota 2: Team Spirit vs Gaimin Gladiators match winner",
+          "slug": "team-spirit-vs-gaimin-gladiators-match-winner",
+          "active": true,
+          "closed": false,
+          "outcomes": "[\"Team Spirit\", \"Gaimin Gladiators\"]",
+          "outcomePrices": "[\"0.57\", \"0.43\"]",
+          "volume": "12500.50",
+          "liquidity": "3200.25"
+        },
+        {
+          "id": "pm-market-dota2-map-001",
+          "conditionId": "pm-cond-dota2-map-001",
+          "question": "Dota 2: Team Spirit vs Gaimin Gladiators Game 1 Winner",
+          "slug": "team-spirit-vs-gaimin-gladiators-game-1-winner",
+          "active": true,
+          "closed": false,
+          "outcomes": [
+            "Team Spirit",
+            "Gaimin Gladiators"
+          ],
+          "outcomePrices": [
+            "0.51",
+            "0.49"
+          ]
+        },
+        {
+          "id": "pm-market-dota2-closed-001",
+          "conditionId": "pm-cond-dota2-closed-001",
+          "question": "Dota 2: Team Spirit vs Gaimin Gladiators match winner",
+          "slug": "team-spirit-vs-gaimin-gladiators-closed",
+          "active": true,
+          "closed": true,
+          "outcomes": [
+            "Team Spirit",
+            "Gaimin Gladiators"
+          ],
+          "outcomePrices": [
+            "0.56",
+            "0.44"
+          ]
+        },
+        {
+          "id": "pm-market-dota2-inactive-001",
+          "conditionId": "pm-cond-dota2-inactive-001",
+          "question": "Dota 2: Team Spirit vs Gaimin Gladiators match winner",
+          "slug": "team-spirit-vs-gaimin-gladiators-inactive",
+          "active": false,
+          "closed": false,
+          "outcomes": [
+            "Team Spirit",
+            "Gaimin Gladiators"
+          ],
+          "outcomePrices": [
+            "0.56",
+            "0.44"
+          ]
+        },
+        {
+          "id": "pm-market-dota2-invalid-price-001",
+          "conditionId": "pm-cond-dota2-invalid-price-001",
+          "question": "Dota 2: Team Spirit vs Gaimin Gladiators match winner",
+          "slug": "team-spirit-vs-gaimin-gladiators-invalid-price",
+          "active": true,
+          "closed": false,
+          "outcomes": [
+            "Team Spirit",
+            "Gaimin Gladiators"
+          ],
+          "outcomePrices": [
+            "0",
+            "1.25"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "pm-market-cs2-match",
+    "conditionId": "pm-cond-cs2-match",
+    "question": "Counter-Strike: paiN Academy vs ALKA (BO3) - CCT South America Series 3 Group Stage",
+    "slug": "cs2-paina-alkaa-2026-06-27",
+    "eventSlug": "cs2-paina-alkaa-2026-06-27",
+    "active": true,
+    "closed": false,
+    "startDate": "2026-06-27T21:00:00Z",
+    "category": "Counter-Strike",
+    "outcomes": [
+      "paiN Academy",
+      "ALKA"
+    ],
+    "outcomePrices": [
+      "0.455",
+      "0.545"
+    ],
+    "volumeNum": 9100.12,
+    "liquidityNum": 2400.34
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "provider": "oddspapi",
+      "bookmaker": "stake",
+      "game": "cs2",
+      "tournament": "CCT South America Series 3 Group Stage",
+      "start_time": "2026-06-27T21:00:00+00:00",
+      "team_a": "paiN Academy",
+      "odds_a": 2.12,
+      "team_b": "ALKA",
+      "odds_b": 1.72,
+      "market_type": "h2h",
+      "event_url": "https://example.test/stake/cs2-paina-alkaa",
+      "raw": {
+        "fixture_id": "stake-cs2-001"
+      }
+    }
+  ]
+}

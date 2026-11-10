@@ -1,0 +1,12 @@
+
+.env
+
+.env
+
+# Local scanner/runtime artifacts
+.cache/
+logs/
+__pycache__/
+*.py[cod]
+scan_*.txt
+stake_coverage_*.txt

@@ -1,0 +1,45 @@
+{
+  "events": [
+    {
+      "id": "pm-event-cs2-mibr-patins",
+      "title": "Counter-Strike: Mibr Academy vs Patins Da Ferrari (BO3) - CCT South America",
+      "slug": "cs2-mibr-patins-da-ferrari-2026-06-28",
+      "active": true,
+      "closed": false,
+      "startTime": "2026-06-28T18:00:00Z",
+      "category": "Counter-Strike",
+      "markets": [
+        {
+          "id": "pm-market-cs2-mibr-patins-map1",
+          "conditionId": "pm-cond-cs2-mibr-patins-map1",
+          "question": "Counter-Strike: Mibr Academy vs Patins Da Ferrari (BO3) - Map 1 Winner",
+          "slug": "cs2-mibr-patins-da-ferrari-map-1-winner-2026-06-28",
+          "active": true,
+          "closed": false,
+          "outcomes": "[\"Mibr Academy\", \"Patins Da Ferrari\"]",
+          "outcomePrices": "[\"0.54\", \"0.46\"]"
+        },
+        {
+          "id": "pm-market-cs2-mibr-patins-map2",
+          "conditionId": "pm-cond-cs2-mibr-patins-map2",
+          "question": "Counter-Strike: Mibr Academy vs Patins Da Ferrari (BO3) - Map 2 Winner",
+          "slug": "cs2-mibr-patins-da-ferrari-map-2-winner-2026-06-28",
+          "active": true,
+          "closed": false,
+          "outcomes": "[\"Mibr Academy\", \"Patins Da Ferrari\"]",
+          "outcomePrices": "[\"0.52\", \"0.48\"]"
+        },
+        {
+          "id": "pm-market-cs2-mibr-patins-match",
+          "conditionId": "pm-cond-cs2-mibr-patins-match",
+          "question": "Counter-Strike: Mibr Academy vs Patins Da Ferrari (BO3) - CCT South America",
+          "slug": "cs2-mibr-patins-da-ferrari-2026-06-28",
+          "active": true,
+          "closed": false,
+          "outcomes": "[\"Mibr Academy\", \"Patins Da Ferrari\"]",
+          "outcomePrices": "[\"0.47\", \"0.53\"]"
+        }
+      ]
+    }
+  ]
+}

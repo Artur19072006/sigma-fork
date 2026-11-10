@@ -1,0 +1,19 @@
+[
+  {
+    "provider": "polymarket",
+    "bookmaker": "polymarket",
+    "game": "counter-strike",
+    "tournament": "Counter-Strike: paiN Academy vs ALKA (BO3) - CCT South America Series 3 Group Stage",
+    "start_time": "2026-06-27T21:15:00Z",
+    "team_a": "ALKA",
+    "odds_a": 1.8348623853,
+    "team_b": "paiN Academy",
+    "odds_b": 2.1978021978,
+    "market_type": "h2h",
+    "event_url": "https://polymarket.com/event/cs2-paina-alkaa-2026-06-27",
+    "raw": {
+      "source": "gamma_query_slug",
+      "market_id": "pm-market-cs2-match"
+    }
+  }
+]

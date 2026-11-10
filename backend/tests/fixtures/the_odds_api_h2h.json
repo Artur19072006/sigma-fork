@@ -1,0 +1,33 @@
+[
+  {
+    "id": "evt_001",
+    "sport_key": "esports_lol",
+    "sport_title": "League of Legends",
+    "commence_time": "2026-06-27T18:00:00Z",
+    "home_team": "Blue Side",
+    "away_team": "Red Side",
+    "bookmakers": [
+      {
+        "key": "draftkings",
+        "title": "DraftKings",
+        "last_update": "2026-06-26T12:00:00Z",
+        "markets": [
+          {
+            "key": "h2h",
+            "last_update": "2026-06-26T12:00:00Z",
+            "outcomes": [
+              {
+                "name": "Blue Side",
+                "price": 1.82
+              },
+              {
+                "name": "Red Side",
+                "price": 2.04
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

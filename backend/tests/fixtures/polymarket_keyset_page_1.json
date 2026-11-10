@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "id": "pm-event-cs2-yaw-bk",
+      "title": "Counter-Strike: Yawara eSports vs Blitzkrieg (BO3) - CCT South America",
+      "slug": "cs2-yaw-bk-2026-06-28",
+      "active": true,
+      "closed": false,
+      "startTime": "2026-06-28T16:00:00Z",
+      "category": "Counter-Strike",
+      "markets": [
+        {
+          "id": "pm-market-cs2-yaw-bk-map1",
+          "conditionId": "pm-cond-cs2-yaw-bk-map1",
+          "question": "Counter-Strike: Yawara eSports vs Blitzkrieg (BO3) - Map 1 Winner",
+          "slug": "cs2-yaw-bk-map-1-winner-2026-06-28",
+          "active": true,
+          "closed": false,
+          "outcomes": "[\"Yawara eSports\", \"Blitzkrieg\"]",
+          "outcomePrices": "[\"0.58\", \"0.42\"]"
+        },
+        {
+          "id": "pm-market-cs2-yaw-bk-map2",
+          "conditionId": "pm-cond-cs2-yaw-bk-map2",
+          "question": "Counter-Strike: Yawara eSports vs Blitzkrieg (BO3) - Map 2 Winner",
+          "slug": "cs2-yaw-bk-map-2-winner-2026-06-28",
+          "active": true,
+          "closed": false,
+          "outcomes": "[\"Yawara eSports\", \"Blitzkrieg\"]",
+          "outcomePrices": "[\"0.56\", \"0.44\"]"
+        },
+        {
+          "id": "pm-market-cs2-yaw-bk-match",
+          "conditionId": "pm-cond-cs2-yaw-bk-match",
+          "question": "Counter-Strike: Yawara eSports vs Blitzkrieg (BO3) - CCT South America",
+          "slug": "cs2-yaw-bk-2026-06-28",
+          "active": true,
+          "closed": false,
+          "outcomes": "[\"Yawara eSports\", \"Blitzkrieg\"]",
+          "outcomePrices": "[\"0.50\", \"0.50\"]"
+        }
+      ]
+    }
+  ],
+  "after_cursor": "cursor-page-2"
+}

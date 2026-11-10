@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "pm-market-cs2-h2h-001",
+      "conditionId": "pm-cond-cs2-h2h-001",
+      "question": "CS2: Natus Vincere vs Vitality match winner",
+      "slug": "natus-vincere-vs-vitality-match-winner",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Natus Vincere"
+        },
+        {
+          "name": "Vitality"
+        }
+      ],
+      "outcomePrices": [
+        0.48,
+        0.52
+      ],
+      "volumeNum": 4500.25,
+      "liquidityNum": 1800.5,
+      "events": [
+        {
+          "id": "pm-event-cs2-001",
+          "title": "Natus Vincere vs Vitality",
+          "slug": "natus-vincere-vs-vitality-cs2-blast",
+          "active": true,
+          "closed": false,
+          "startDate": "2026-07-02T19:00:00Z",
+          "category": {
+            "name": "CS2"
+          },
+          "series": [
+            {
+              "name": "BLAST Premier"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
